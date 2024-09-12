@@ -30,7 +30,7 @@ I am a software developer, graduated as a systems engineer, and in this reposito
 
 ### What I hear when programming
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/31ega25ohjhax25theqbvptnpcga">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ega25ohjhax25theqbvptnpcga&count=3&unique=true" alt="Spotify recently played"  />
   </a>
