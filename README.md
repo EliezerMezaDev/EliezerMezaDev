@@ -27,11 +27,3 @@ I am a software developer, graduated as a systems engineer, and in this reposito
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
-
-### What I hear when programming
-
-<div align="left">
-  <a href="https://open.spotify.com/user/31ega25ohjhax25theqbvptnpcga">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ega25ohjhax25theqbvptnpcga&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
