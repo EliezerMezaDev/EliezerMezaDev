@@ -7,7 +7,7 @@ Front-end developer
 I am a software developer, graduated as a systems engineer, and in this repository you will only find all my practices and personal projects in the React ecosystem, a library that since my college days has caught my attention and to which I want to aim my career as a developer.
 
 * 🌍  I'm based in Venezuela
-* 🖥️  See my portfolio at [here](https://eliezermeza.netlify.app/)
+* 🖥️  See my portfolio at [here](https://eamz.netlify.app/)
 * ✉️  You can contact me at [eliezermeza.dev@gmail.com](mailto:eliezermeza.dev@gmail.com)
 
 ### Skills
