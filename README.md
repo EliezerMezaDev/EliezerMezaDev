@@ -5,7 +5,7 @@
 - 🌱 Aprendiendo sobre **Integración de IA en plataformas educativas**
 - 📫 Cómo contactarme **eliezermeza.dev@gmail.com**
 - 👨‍💻 Echa un vistazo a mi **[portafolio](https://eamz.netlify.app/)**
-- 📄 Mi **[CV](https://eamz.netlify.app/docs/cv.pdf)**
+- 📄 Mi **[CV](https://eamz.netlify.app/cv)**
 
 <h3 align="left">Conéctate conmigo:</h3>
 
